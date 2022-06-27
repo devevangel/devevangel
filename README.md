@@ -48,11 +48,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://docs.google.com/document/d/1PjTlf9-mNSO-v5s4Lc9lZ7RyqGVV_s9SrDtibF2iV5s/edit?usp=sharing"><img alt="Website" src="https://docs.google.com/document/d/1PjTlf9-mNSO-v5s4Lc9lZ7RyqGVV_s9SrDtibF2iV5s/edit?usp=sharing"></a>
-<a href="https://www.linkedin.com/in/chidiebube-iheukwumere-511a7219b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/chidi3bub3_ig/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:dev.evangel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/chidiebube-iheukwumere-511a7219b/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  <a href="https://www.instagram.com/chidi3bub3_ig/" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="30" width="30"></a>
+    <a href="https://docs.google.com/document/d/1PjTlf9-mNSO-v5s4Lc9lZ7RyqGVV_s9SrDtibF2iV5s/edit?usp=sharing" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
-https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome
+
