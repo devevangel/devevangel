@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://docs.google.com/document/d/1PjTlf9-mNSO-v5s4Lc9lZ7RyqGVV_s9SrDtibF2iV5s/edit?usp=sharing"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome">resume</a>
+<a href="https://docs.google.com/document/d/1PjTlf9-mNSO-v5s4Lc9lZ7RyqGVV_s9SrDtibF2iV5s/edit?usp=sharing"><img alt="Website" src=""></a>
 <a href="https://www.linkedin.com/in/chidiebube-iheukwumere-511a7219b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/chidi3bub3_ig/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:dev.evangel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
