@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Chemical engineering at the Federal University of Technology Minna.
-- 💼 &nbsp; Working as a Fullstack Mobile Developer at Better Today Inc.
+- 💼 &nbsp; Working as a Software Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Blockchain.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
