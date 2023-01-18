@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Chemical engineering at the Federal University of Technology Niger.
 - 💼 &nbsp; Working as a Software Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Blockchain.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
