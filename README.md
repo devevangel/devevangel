@@ -1,7 +1,4 @@
 ### About Me:
 
-I'm a passionate and driven software engineer, dedicated to utilizing technology for the betterment of others. Embracing new challenges brings me joy, especially when teaching and witnessing those **"aha" moments** in others.
 
-As CTO and sole developer of [Kevvlar](https://kevvlar.com), a *project management tool*, I've honed my coding expertise and embraced effective collaboration.
-
-I welcome feedback and approach every task with a beginner's mindset, striving for excellence and paying meticulous attention to detail. My focus is on making a positive impact in all endeavors.
+An aspiring software engineer with a deep love for technology. My greatest joy is sharing knowledge and witnessing those 'aha' moments when concepts come alive for others. I'm also a business-minded individual who, in my spare time, co-founded ['Kevvlar'](https://kevvlar.com), a project management tool aimed at changing how projects are managed. I'm now eager to bring my skills and enthusiasm to a forward-thinking company.
