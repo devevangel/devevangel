@@ -71,7 +71,7 @@ All-in-one project management platform with real-time video conferencing, live c
 
 - SAFe Agile Practitioner
 - UK GDPR Certificate
-- Lilly Copilot Facilitator (2024) — Led workshops on productivity tools
+- Eli Lilly Copilot Facilitator (2024) — Led workshops on productivity tools
 - Python Mentor at Ngadi Foundations (2022)
 - Game Development Instructor at Inspire Bootcamp (2020)
 
@@ -79,8 +79,7 @@ All-in-one project management platform with real-time video conferencing, live c
 
 - Graduating in 2026 with a BSc (Hons) in Software Engineering (First Class predicted)
 - Building data-heavy dashboards at Marchex Inc
-- Exploring advanced React patterns and performance optimization
-- Considering graduate roles in frontend/full-stack engineering
+- Considering graduate roles in Software Enginering/frontend/full-stack engineering
 
 ## 🎨 Beyond Code
 
